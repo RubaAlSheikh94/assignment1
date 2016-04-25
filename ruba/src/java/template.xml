@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<template>
+    <template> 
+        <id>1</id>
+        <name>Rubaalsheikh</name>
+        <duration>2234.009</duration>
+    </template> 
+    <template> 
+        <id>2</id>
+        <name>haninwishah</name>
+        <duration>2934.111</duration>
+    </template>
+    <template> 
+        <id>3</id>
+        <name>mohamadbaker</name>
+        <duration>22.765</duration>
+    </template> 
+    <template> 
+        <id>4</id>
+        <name>lanadirbas</name>
+        <duration>224.888</duration>
+    </template> 
+    <template> 
+        <id>5</id>
+        <name>linanofal</name>
+        <duration>934.9</duration>
+    </template> 
+    <template> 
+        <id>6</id>
+        <name>kinda</name>        
+        <duration>4434.432</duration>
+    </template> 
+ 
+</template>

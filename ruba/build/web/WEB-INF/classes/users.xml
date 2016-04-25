@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<users>
+    <user> 
+        <id>1</id> 
+        <name>Hanin</name>
+        <pass>hanin</pass>
+        <templateid>1</templateid>
+    </user>
+    <user> 
+        <id>2</id> 
+        <name>Ranin</name>
+        <pass>ranin</pass>
+        <templateid>2</templateid>
+
+
+    </user>
+    <user> 
+        <id>3</id> 
+        <name>Do3a</name>
+        <pass>do3a</pass>
+        <templateid>3</templateid>
+
+    </user>
+    <user> 
+        <id>4</id> 
+        <name>Samar</name>
+        <pass>samar</pass>
+        <templateid>4</templateid>
+
+    </user>
+    <user> 
+        <id>5</id> 
+        <name>Lama</name>
+        <pass>lama</pass>
+        <templateid>5</templateid>
+
+    </user>
+
+    <user> 
+        <id>6</id> 
+        <name>Sara</name>
+        <pass>sara</pass>
+        <templateid>6</templateid>
+
+    </user>
+    <user> 
+        <id>7</id> 
+        <name>Sama</name>
+        <pass>sama</pass>
+        <templateid>7</templateid>
+
+    </user>
+    <user> 
+        <id>8</id> 
+        <name>yasmine</name>
+        <pass>yasmine</pass>
+        <templateid>8</templateid>
+
+    </user>
+    <user> 
+        <id>9</id> 
+        <name>Weam</name>
+        <pass>weam</pass>
+        <templateid>9</templateid>
+
+    </user>
+    <user> 
+        <id>10</id> 
+
+        <name>islam</name>
+        <pass>islam</pass>
+        <templateid>10</templateid>
+
+    </user>
+</users>

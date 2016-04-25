@@ -1,0 +1,10 @@
+{
+    "mytemplate":[
+        {"id":"1","name":"Rubaalsheikh","duration":"22"},
+        {"id":"2","name":"haninwishah","duration":"10"},
+        {"id":"3","name":"mohamadbaker","duration":"07"},
+        {"id":"4","name":"lanadirbas","duration":"17"},
+        {"id":"5","name":"linanofal","duration":"20"},
+        {"id":"6","name":"kinda","duration":"20.5"}
+    ]
+}

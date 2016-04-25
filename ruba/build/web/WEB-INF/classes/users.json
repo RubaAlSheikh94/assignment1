@@ -1,0 +1,41 @@
+{
+    "user1": {
+        "id":1,
+        "templateid":1,
+        "username":"Rubaalsheikh",
+        "password": "ruba.ruba"
+        
+    },
+   
+    "user2": {
+        "id":2,
+        "templateid":2,
+        "username":"haninwishah",
+        "password": "hanin123"
+    },
+    "user3": {
+        "id":3,
+        "templateid":3,
+        "username":"mohamadbaker",
+        "password": "mmm123rrr"
+    },
+    "user4": {
+        "id":4,
+        "templateid":4,
+        "username":"lanadirbas",
+        "password": "mmm123rrr"
+    },
+     "user5": {
+        "id":5,
+        "templateid":5,
+        "username":"linanofal",
+        "password": "mmm123rrr"
+    },
+     "user6": {
+        "id":6,
+        "templateid":6,
+        "username":"kinda",
+        "password": "mmm123rrr"
+
+}
+}
